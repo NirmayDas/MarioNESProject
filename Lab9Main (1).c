@@ -1,9 +1,3 @@
-// Lab9Main.c
-// Runs on MSPM0G3507
-// Lab 9 ECE319K
-// Nirmay Das & Nolan A.
-// Last Modified:
-
 #include <stdio.h>
 #include <stdint.h>
 #include <ti/devices/msp/msp.h>
