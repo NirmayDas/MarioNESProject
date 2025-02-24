@@ -5,7 +5,7 @@
 # 🎮 Mario NES Project - README
 
 ## 📝 **Project Overview**
-This project is a **recreation of the classic Mario NES game**, focusing on core gameplay mechanics, level design, and character movement. The goal is to provide a nostalgic gaming experience while showcasing coding practices in **C/C++** and **game development fundamentals**.
+This project is a **recreation of the classic Mario NES game**, focusing on core gameplay mechanics, level design, and character movement. The goal is to provide a nostalgic gaming experience while showcasing coding practices in **C/C++**, hardware skills using the MSMP0+ Microcontroller and **game development fundamentals**.
 Link to a video of the project:
 https://www.youtube.com/watch?v=z5f-SUTUV7k
 ---
