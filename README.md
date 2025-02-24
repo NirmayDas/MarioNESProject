@@ -12,10 +12,10 @@ https://www.youtube.com/watch?v=z5f-SUTUV7k
 
 ## 🚀 **Features**
 ✅ Authentic Mario-style side-scrolling gameplay  
-✅ Character movement: run, jump, and crouch mechanics  
-✅ Multiple levels with classic obstacles and enemies  
+✅ Character movement: run, jump and squash mechanics  
+✅ OG level with classic obstacles and enemies  
 ✅ Collectibles like coins and power-ups  
-✅ Basic sound effects and background music  
+✅ Basic sound effects for collecting coins, squashing enemies, etc.
 
 ---
 
@@ -24,27 +24,6 @@ https://www.youtube.com/watch?v=z5f-SUTUV7k
 - **SDL2 Library**: Graphics rendering, audio playback, and input handling  
 - **Tiled**: Level design and tile mapping  
 - **Makefile**: For build automation  
-
----
-
-## 📂 **Project Structure**
-```
-├── assets/        # Sprites, sounds, and level data  
-├── src/           # Source code files  
-│   ├── main.cpp   # Entry point of the game  
-│   ├── player.cpp # Player movement and actions  
-│   └── level.cpp  # Level loading and rendering  
-├── Makefile       # Build instructions  
-└── README.md      # Project documentation  
-```
-
----
-
-## 🎮 **Controls**
-- **Arrow Keys**: Move left/right  
-- **Spacebar**: Jump  
-- **Down Arrow**: Crouch  
-- **Esc**: Exit game  
 
 ---
 
