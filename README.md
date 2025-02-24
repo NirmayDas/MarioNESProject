@@ -40,41 +40,11 @@ https://www.youtube.com/watch?v=z5f-SUTUV7k
 
 ---
 
-## 🖥️ **Installation & Running**
-### Prerequisites:
-- C++ compiler (e.g., **g++**)
-- **SDL2** installed on your system
-
-### Steps:
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/mario-nes-project.git
-   ```
-2. Navigate to the project folder:  
-   ```bash
-   cd mario-nes-project
-   ```
-3. Build the project:  
-   ```bash
-   make
-   ```
-4. Run the game:  
-   ```bash
-   ./mario-nes
-   ```
-
----
-
 ## 🎮 **Controls**
 - **Arrow Keys**: Move left/right  
 - **Spacebar**: Jump  
 - **Down Arrow**: Crouch  
 - **Esc**: Exit game  
-
----
-
-## 🏆 **Contributing**
-Contributions are welcome! Feel free to **fork the repo** and submit **pull requests** for new features, bug fixes, or enhancements.
 
 ---
 
@@ -85,7 +55,6 @@ This project is for educational purposes and is **not affiliated** with Nintendo
 
 ## 🙌 **Acknowledgments**
 - Inspired by the classic **Super Mario Bros.** NES game.  
-- Thanks to the **SDL2 community** for the open-source libraries and tutorials.  
 
 ---
 
