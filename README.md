@@ -2,7 +2,11 @@
 
 A low-level, hardware-integrated recreation of the core gameplay from Super Mario Bros. built on a custom NES-style platform using an MSPM0+ ARM Cortex-M0+ microcontroller.
 
-https://www.youtube.com/watch?v=z5f-SUTUV7k
+## 📷 Demo
+
+Check out the project demo here:  
+🎥 [Watch on YouTube](https://www.youtube.com/watch?v=z5f-SUTUV7k)
+
 
 ## 🕹️ Project Overview
 
@@ -37,11 +41,3 @@ This project simulates the classic NES Super Mario Bros. experience on custom ha
 - 🎵 Basic sound effects through speaker  
 - 📉 Memory-optimized logic to operate within 64 KB flash constraint  
 - 🧠 FSM-based game loop for real-time responsiveness  
-
-## 📷 Demo
-
-Check out the project demo here:  
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=z5f-SUTUV7k)
-
-## 📁 Project Structure
-
