@@ -1,41 +1,47 @@
+# Custom NES Super Mario Bros (Embedded C + MSPM0+)
 
+A low-level, hardware-integrated recreation of the core gameplay from Super Mario Bros. built on a custom NES-style platform using an MSPM0+ ARM Cortex-M0+ microcontroller.
 
-
-
-# 🎮 Mario NES Project - README
-
-## 📝 **Project Overview**
-This project is a **recreation of the classic Mario NES game**, focusing on core gameplay mechanics, level design, and character movement. The goal is to provide a nostalgic gaming experience while showcasing coding practices in **C/C++**, hardware skills using the MSMP0+ Microcontroller and **game development fundamentals**.
-Link to a video of the project:
 https://www.youtube.com/watch?v=z5f-SUTUV7k
----
 
-## 🚀 **Features**
-✅ Authentic Mario-style side-scrolling gameplay  
-✅ Character movement: run, jump and squash mechanics  
-✅ OG level with classic obstacles and enemies  
-✅ Collectibles like coins and power-ups  
-✅ Basic sound effects for collecting coins, squashing enemies, etc.
+## 🕹️ Project Overview
 
----
+This project simulates the classic NES Super Mario Bros. experience on custom hardware built from the ground up. It features real-time input handling, sprite rendering, and bilingual gameplay support in English and Spanish — all under tight hardware and memory constraints.
 
-## 🛠️ **Technologies Used**
-- **C/C++**: Core game logic and physics  
-- **SDL2 Library**: Graphics rendering, audio playback, and input handling  
-- **Tiled**: Level design and tile mapping  
-- **Makefile**: For build automation  
+## ⚙️ Tech Stack
 
----
+- **Language:** Embedded C
+- **Microcontroller:** MSPM0+ ARM Cortex-M0+
+- **IDE:** Code Composer Studio
+- **Display:** LCD (parallel interface)
+- **Inputs:** Buttons, slide potentiometer
+- **Audio:** Basic speaker output
+- **Memory:** 64 KB flash
 
-## 📄 **License**
-This project is for educational purposes and is **not affiliated** with Nintendo or the original Mario franchise.
+## 🛠️ Hardware Components
 
----
+- MSPM0+ LaunchPad
+- Breadboard
+- LCD display (monochrome)
+- Slide potentiometer
+- Tactile push buttons
+- Resistors, jumper wires
+- Basic speaker or piezo buzzer
+- Power supply (USB or external)
 
-## 🙌 **Acknowledgments**
-- Inspired by the classic **Super Mario Bros.** NES game.  
+## 🚀 Features
 
----
+- 🎮 Custom game engine simulating NES-style physics and controls  
+- 🖼️ Sprite rendering and basic animation  
+- 🗣️ Multilingual support (English & Spanish toggle)  
+- 🎵 Basic sound effects through speaker  
+- 📉 Memory-optimized logic to operate within 64 KB flash constraint  
+- 🧠 FSM-based game loop for real-time responsiveness  
 
-🚀 *Enjoy the nostalgia and happy gaming!* 🎮🍄
+## 📷 Demo
+
+Check out the project demo here:  
+🎥 [Watch on YouTube](https://www.youtube.com/watch?v=z5f-SUTUV7k)
+
+## 📁 Project Structure
 
