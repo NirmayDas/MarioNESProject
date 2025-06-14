@@ -1,4 +1,4 @@
-# Custom NES Super Mario Bros (Embedded C + MSPM0+)
+# Mario Bros Embedded System (Embedded C + MSPM0+)
 
 A low-level, hardware-integrated recreation of the core gameplay from Super Mario Bros. built on a custom NES-style platform using an MSPM0+ ARM Cortex-M0+ microcontroller.
 
